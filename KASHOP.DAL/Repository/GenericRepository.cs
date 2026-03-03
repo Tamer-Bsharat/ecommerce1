@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -18,17 +19,36 @@ namespace KASHOP.DAL.Repository
 
         }
 
-        public async Task<T> CreateAsync(T entity)
+        public async Task<T> CreateAsync(T entity, CancellationToken cancellationToken)
         {
-            await _context.AddAsync(entity);
-            await _context.SaveChangesAsync();
+            await _context.AddAsync(entity,cancellationToken);
+            await _context.SaveChangesAsync(cancellationToken);
             return entity;
         }
 
-        public async Task<List<T>> GetAllAsync()
+        public async Task<List<T>> GetAllAsync(String[]? includes = null)
         {
-            //Include(c => c.Translations)
-            return await _context.Set<T>().ToListAsync();
+            IQueryable <T> query = _context.Set<T>();
+            if(includes != null)
+            {
+                foreach(var include in includes)
+                {
+                    query = query.Include(include);
+                }
+            }
+            return await query.ToListAsync();
+        }
+        public async Task<T>GetOne(Expression<Func<T,bool>> filter,String[]? includes = null)
+        {
+            IQueryable<T> query = _context.Set<T>();
+            if (includes != null)
+            {
+                foreach (var include in includes)
+                {
+                    query = query.Include(include);
+                }
+            }
+            return await query.FirstOrDefaultAsync(filter);
         }
     }
 }

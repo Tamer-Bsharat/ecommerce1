@@ -12,3 +12,4 @@ C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.DAL\obj\Debu
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.pdb
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.genruntimeconfig.cache
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.DAL\obj\Debug\net9.0\ref\KASHOP.DAL.dll
+C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.sourcelink.json

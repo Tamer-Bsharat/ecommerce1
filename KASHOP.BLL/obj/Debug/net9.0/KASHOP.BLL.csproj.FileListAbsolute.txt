@@ -13,3 +13,4 @@ C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.BLL\obj\Debu
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.BLL\obj\Debug\net9.0\refint\KASHOP.BLL.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.BLL\obj\Debug\net9.0\KASHOP.BLL.pdb
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.BLL\obj\Debug\net9.0\ref\KASHOP.BLL.dll
+C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.BLL\obj\Debug\net9.0\KASHOP.BLL.sourcelink.json

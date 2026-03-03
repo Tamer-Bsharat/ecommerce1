@@ -174,3 +174,4 @@ C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\Mapster.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\Mapster.Core.dll
+C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\obj\Debug\net9.0\KASHOP.PL.sourcelink.json
