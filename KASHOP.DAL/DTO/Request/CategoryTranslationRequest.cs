@@ -11,5 +11,8 @@ namespace KASHOP.DAL.DTO.Request
         public String Name {  get; set; }
         public String Language { get; set; }
 
+       
+
+
     }
 }

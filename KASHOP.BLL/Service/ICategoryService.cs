@@ -7,8 +7,10 @@ namespace KASHOP.BLL.Service
 {
     public interface ICategoryService
     {
-        Task <List<CategoryResponse>> GetAllCategories();
-        Task<CategoryResponse> CreateCategory(CategoryRequest request,CancellationToken cancellationToken);
+        Task<List<CategoryResponse>> GetAllCategories();
+            Task<CategoryResponse> CreateCategory(CategoryRequest request,CancellationToken cancellationToken);
         Task<CategoryResponse?> GetCategory(Expression<Func<Category, bool>> filter);
+
+        Task<bool> DeleteCategory(int id);
     }
 }

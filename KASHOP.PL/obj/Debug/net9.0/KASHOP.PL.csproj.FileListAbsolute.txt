@@ -39,13 +39,11 @@ C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\System.ClientModel.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\System.Drawing.Common.dll
-C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\System.Formats.Asn1.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\System.Memory.Data.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\System.Runtime.Caching.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\System.Security.Permissions.dll
-C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\System.Windows.Extensions.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
@@ -175,3 +173,10 @@ C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\Mapster.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\Mapster.Core.dll
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\obj\Debug\net9.0\KASHOP.PL.sourcelink.json
+C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Debug\net9.0\KASHOP.PL.staticwebassets.runtime.json

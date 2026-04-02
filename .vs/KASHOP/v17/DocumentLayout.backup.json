@@ -3,114 +3,178 @@
   "WorkspaceRootPath": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\mockcategoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\mockcategoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.bll\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\response\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\response\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.bll\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.bll\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260402172935_additt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KASHOP.DAL\\Migrations\\20260402172935_additt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/kashop_13/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\response\\categorytranslationrespons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\response\\categorytranslationrespons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\models\\brandlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\brandlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\response\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\response\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\request\\brandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\brandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\request\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.bll\\service\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.bll\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\migrations\\20260224134156_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\migrations\\20260224134156_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/kashop_13/True/SqlTable/dbo.CategoriesTranslation.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/kashop_13/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\models\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.pl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.pl\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.pl\\resources\\sharedresources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\resources\\sharedresources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.bll\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.pl\\resources\\sharedresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\resources\\sharedresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.pl\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.bll\\service\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\migrations\\20260224135554_soso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\migrations\\20260224135554_soso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\migrations\\20260224135526_initail123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\migrations\\20260224135526_initail123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\migrations\\20260224135042_initail12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\migrations\\20260224135042_initail12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\response\\brandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\response\\brandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\migrations\\20260224134824_initail1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\migrations\\20260224134824_initail1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.bll\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.bll\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.pl\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06E8379-DD0D-40F5-AD24-44490F931202}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.bll\\service\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/kashop_13/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.bll\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66352C96-BDC6-4B07-80E4-20A94693B3B8}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\models\\producttranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\producttranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\response\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\response\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\request\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\models\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\response\\categorytranslationrespons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\response\\categorytranslationrespons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\response\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\response\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\dto\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\kashop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\kashop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\migrations\\20260331152936_fixproductidtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\migrations\\20260331152936_fixproductidtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\tamer\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\kashop\\kashop.dal\\migrations\\20260401210054_brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FA70E2-598C-48A0-AC34-D618CADF6F0C}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\migrations\\20260401210054_brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -127,345 +191,544 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\ICategoryService.cs",
-              "RelativeToolTip": "KASHOP.BLL\\Service\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T13:58:23.215Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\CategoryService.cs",
-              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\CategoryService.cs",
-              "RelativeToolTip": "KASHOP.BLL\\Service\\CategoryService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA1wCUAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "20260402172935_additt.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260402172935_additt.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20260402172935_additt.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260402172935_additt.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20260402172935_additt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T13:58:56.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Repository\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T16:30:47.013Z",
+              "WhenOpened": "2026-04-02T17:29:35.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Repository\\GenericRepository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwCgAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T17:26:05.346Z",
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/kashop_13/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-02T17:28:47.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\IGenericRepository.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Repository\\IGenericRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\Brand.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T17:23:50.337Z",
+              "WhenOpened": "2026-04-01T20:27:15.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDUAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\Product.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T13:39:31.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MockCategoryRep.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\MockCategoryRep.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\MockCategoryRep.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\MockCategoryRep.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Repository\\MockCategoryRep.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T16:43:56.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryTranslationRespons.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\CategoryTranslationRespons.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Response\\CategoryTranslationRespons.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\CategoryTranslationRespons.cs",
-              "RelativeToolTip": "KASHOP.DAL\\DTO\\Response\\CategoryTranslationRespons.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T15:19:29.462Z",
+              "WhenOpened": "2026-03-31T15:00:57.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CategoryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\CategoryResponse.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Response\\CategoryResponse.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\CategoryResponse.cs",
-              "RelativeToolTip": "KASHOP.DAL\\DTO\\Response\\CategoryResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "BrandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\BrandRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\BrandRequest.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\BrandRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\BrandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T15:20:44.493Z",
+              "WhenOpened": "2026-04-01T20:46:02.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Mapping\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Mapping\\MapsterConfig.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Mapping\\MapsterConfig.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Mapping\\MapsterConfig.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:00:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\ProductRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\ProductRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:28:14.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Response\\ProductResponse.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\ProductResponse.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Response\\ProductResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:00:05.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CategoryTranslationRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryTranslationRequest.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\CategoryTranslationRequest.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryTranslationRequest.cs",
-              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\CategoryTranslationRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\BrandService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\BrandService.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\BrandService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\BrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T14:50:56.962Z",
+              "WhenOpened": "2026-04-01T20:28:59.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
-              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "BrandList.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\BrandList.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\BrandList.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\BrandList.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\BrandList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T14:39:41.966Z",
+              "WhenOpened": "2026-04-01T20:26:02.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "20260224134156_initail.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260224134156_initail.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20260224134156_initail.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260224134156_initail.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20260224134156_initail.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBUAAAAlAAAAAAAAAA==",
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "KASHOP.PL\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:41:57.069Z",
+              "WhenOpened": "2026-04-01T20:37:11.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\ProductService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:03:07.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\ICategoryRepository.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Repository\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T16:40:41.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Program.cs",
-              "RelativeDocumentMoniker": "KASHOP.PL\\Program.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Program.cs",
-              "RelativeToolTip": "KASHOP.PL\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAuwC8AAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T14:35:19.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "dbo.CategoriesTranslation.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/kashop_13/True/SqlTable/dbo.CategoriesTranslation.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/kashop_13/True/SqlTable/dbo.CategoriesTranslation.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-02-24T15:33:06.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "dbo.Categories.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/kashop_13/True/SqlTable/dbo.Categories.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/kashop_13/True/SqlTable/dbo.Categories.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-02-24T15:29:01.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T13:29:15.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CategoryTranslation.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\CategoryTranslation.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\CategoryTranslation.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\CategoryTranslation.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Models\\CategoryTranslation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:32:14.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20260224135554_soso.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260224135554_soso.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20260224135554_soso.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260224135554_soso.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20260224135554_soso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:55:54.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20260224135526_initail123.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260224135526_initail123.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20260224135526_initail123.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260224135526_initail123.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20260224135526_initail123.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:55:26.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20260224135042_initail12.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260224135042_initail12.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20260224135042_initail12.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260224135042_initail12.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20260224135042_initail12.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:50:42.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\appsettings.json",
-              "RelativeDocumentMoniker": "KASHOP.PL\\appsettings.json",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\appsettings.json",
-              "RelativeToolTip": "KASHOP.PL\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-24T13:47:36.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "20260224134824_initail1.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260224134824_initail1.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20260224134824_initail1.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260224134824_initail1.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20260224134824_initail1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:48:24.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "KASHOP.PL\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\appsettings.Development.json",
-              "RelativeToolTip": "KASHOP.PL\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-24T13:47:32.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SharedResources.resx",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Resources\\SharedResources.resx",
-              "RelativeDocumentMoniker": "KASHOP.PL\\Resources\\SharedResources.resx",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Resources\\SharedResources.resx",
-              "RelativeToolTip": "KASHOP.PL\\Resources\\SharedResources.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-02-24T12:42:48.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SharedResources.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Resources\\SharedResources.cs",
-              "RelativeDocumentMoniker": "KASHOP.PL\\Resources\\SharedResources.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Resources\\SharedResources.cs",
-              "RelativeToolTip": "KASHOP.PL\\Resources\\SharedResources.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:47:19.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "KASHOP.DAL\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "KASHOP.DAL\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T13:26:25.632Z"
+              "WhenOpened": "2026-04-02T16:51:09.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\IProductService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:03:41.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20260401210054_brands.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260401210054_brands.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20260401210054_brands.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260401210054_brands.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20260401210054_brands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T21:00:54.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\IBrandService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\IBrandService.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\IBrandService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\IBrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T20:29:18.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\IBrandRepository.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\IBrandRepository.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Repository\\IBrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T20:31:16.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\BrandRepository.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\BrandRepository.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Repository\\BrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T20:31:16.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Program.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Program.cs",
+              "RelativeToolTip": "KASHOP.PL\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T21:24:45.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BrandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\BrandResponse.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Response\\BrandResponse.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\BrandResponse.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Response\\BrandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T20:49:08.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:02:23.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:02:32.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:02:26.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:03:10.883Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "KASHOP.PL\\Controllers\\WeatherForecastController.cs",
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:02:21.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\FileService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\FileService.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\FileService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:02:04.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\AuthenticationService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\AuthenticationService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:52:49.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.Categories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/kashop_13/True/SqlTable/dbo.Categories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/kashop_13/True/SqlTable/dbo.Categories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-31T16:09:20.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.PL\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "KASHOP.PL\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwDcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:22:54.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\IFileService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\IFileService.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\IFileService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:02:13.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.BLL\\Service\\CategoryService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\CategoryService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:01:54.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\ProductTranslation.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\ProductTranslation.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\ProductTranslation.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\ProductTranslation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:00:52.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20260331152936_FixProductIdType.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260331152936_FixProductIdType.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20260331152936_FixProductIdType.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Migrations\\20260331152936_FixProductIdType.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20260331152936_FixProductIdType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:45:34.943Z"
+              "WhenOpened": "2026-03-31T15:29:36.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:02:12.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\CategoryResponse.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Response\\CategoryResponse.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\CategoryResponse.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Response\\CategoryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:41:15.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:39:41.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryTranslationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryTranslationRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\CategoryTranslationRequest.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryTranslationRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\CategoryTranslationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:39:48.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:03:04.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:02:55.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryTranslationRespons.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\CategoryTranslationRespons.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Response\\CategoryTranslationRespons.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\CategoryTranslationRespons.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Response\\CategoryTranslationRespons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:59:27.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\CategoryTranslation.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\CategoryTranslation.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\Models\\CategoryTranslation.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\CategoryTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:00:45.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Response\\RegisterResponse.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Response\\RegisterResponse.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Response\\RegisterResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:01:05.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\DTO\\Request\\LoginRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:59:03.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "KASHOP.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\KASHOP.DAL.csproj",
+              "ToolTip": "C:\\Users\\Tamer\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\ecommerce\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj",
+              "RelativeToolTip": "KASHOP.DAL\\KASHOP.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T14:23:56.337Z"
             }
           ]
         }

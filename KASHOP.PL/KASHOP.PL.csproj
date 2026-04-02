@@ -19,4 +19,25 @@
     <ProjectReference Include="..\KASHOP.BLL\KASHOP.BLL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\058c97ce-128c-4943-9f24-62c618f50bda.jpg" />
+    <None Include="wwwroot\images\26e2b1e2-ef28-46e9-8077-de9cb7df180d.jpg" />
+    <None Include="wwwroot\images\27f305bd-bfe6-4c22-a1c9-17894e6d6b9c.jpg" />
+    <None Include="wwwroot\images\2d795944-89a3-4140-8b74-6185a79c944b.jpg" />
+    <None Include="wwwroot\images\3724b2e4-8a4b-49bf-84ec-bb815a28407b.jpg" />
+    <None Include="wwwroot\images\39683632-d519-47fa-864f-a231f6c488e2.jpg" />
+    <None Include="wwwroot\images\448fe1ac-4a46-4cb4-b1e1-542c51142a23.jpg" />
+    <None Include="wwwroot\images\60454a0d-1e98-4ab9-bab4-d40c50d06365.jpg" />
+    <None Include="wwwroot\images\62de2afe-321b-4e57-9212-12407d8d21ac.jpg" />
+    <None Include="wwwroot\images\69dac770-7880-4db1-b971-6cfce12048ed.jpg" />
+    <None Include="wwwroot\images\b07e1691-34f0-45da-84b3-680e1d0c145b.jpg" />
+    <None Include="wwwroot\images\b9b0b2f5-91a5-4e64-954d-0e8c2ae5d822.jpg" />
+    <None Include="wwwroot\images\f775a641-54fc-4631-94de-e278f281dcb2.jpg" />
+    <None Include="wwwroot\images\fc651462-cb2e-4d27-8b50-99cb08f518f7.jpg" />
+  </ItemGroup>
+
 </Project>
