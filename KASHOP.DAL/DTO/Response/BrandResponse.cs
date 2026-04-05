@@ -10,5 +10,7 @@ namespace KASHOP.DAL.DTO.Response
     {
         public string Massage { get; set; }
         public bool Success { get; set; }
+
+        public string BrandImage { get; set; }
     }
 }

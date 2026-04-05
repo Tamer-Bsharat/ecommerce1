@@ -45,12 +45,28 @@ namespace KASHOP.PL.Controllers
 
         [HttpPost("")]
         [Authorize]
-        public async Task<IActionResult> Create([FromForm] ProductRequest request)
+        public async Task<IActionResult> Create([FromForm] ProductRequest request,CancellationToken cancellationToken)
         {
-            await _productService.CreateProduct(request);
+            await _productService.CreateProduct(request,cancellationToken);
             return Ok();
         }
 
+        [HttpPatch("{id}")]
+        [Authorize]
+        public async Task<IActionResult> Update(int id, [FromForm] ProductUpdateRequest request)
+        {
+            var updated = await _productService.UpdateProduct(id,request);
+            if (!updated) return BadRequest();
+            return Ok();
+        }
+        [HttpPatch("{id}/status")]
+        [Authorize]
+        public async Task<IActionResult> ChangeStatus(int id)
+        {
+            var updated = await _productService.ToggelStatus(id);
+            if (!updated) return BadRequest();
+            return Ok();
+        }
 
         [HttpDelete("{id}")]
         [Authorize]
@@ -60,5 +76,9 @@ namespace KASHOP.PL.Controllers
             if(!deleted) return BadRequest();
             return Ok();
         }
+
+
+
+
     }
 }

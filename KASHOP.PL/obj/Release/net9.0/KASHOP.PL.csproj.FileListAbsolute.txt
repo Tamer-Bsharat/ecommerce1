@@ -179,3 +179,4 @@ C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\obj\Relea
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\obj\Release\net9.0\KASHOP.PL.pdb
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\obj\Release\net9.0\KASHOP.PL.genruntimeconfig.cache
 C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\obj\Release\net9.0\ref\KASHOP.PL.dll
+C:\Users\Tamer\OneDrive\سطح المكتب\ecommerce\KASHOP\KASHOP.PL\bin\Release\net9.0\KASHOP.PL.staticwebassets.runtime.json

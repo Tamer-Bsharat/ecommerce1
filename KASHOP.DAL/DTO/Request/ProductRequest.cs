@@ -11,7 +11,7 @@ namespace KASHOP.DAL.DTO.Request
     {
         public decimal Price { get; set; }
         public decimal Discount { get; set; }
-        public int Queantity { get; set; }
+        public int Quantity { get; set; }
         public IFormFile MainImage { get; set; }
         public List<ProductTranslationRequest> Translations { get; set; }
         public int CategoryId { get; set; }

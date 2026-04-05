@@ -53,7 +53,7 @@ namespace KASHOP.BLL.Service
                 return new RegisterResponse()
                 {
                     Success = false,
-                    //Edite 1
+                    
                     Massage = string.Join(",", result.Errors.Select(e => e.Description)),
                     Errors = result.Errors.Select(p=>p.Description).ToList()
                 };
